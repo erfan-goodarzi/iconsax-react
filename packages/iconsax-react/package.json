@@ -1,16 +1,16 @@
 {
-  "name": "iconsax-reactjs",
-  "version": "0.0.8",
+  "name": "@erfan-goodarzi/iconsax-reactjs",
+  "version": "0.1.0",
   "description": "Iconsax icon pack for React",
-  "author": "Erfan Khadivar <rendinjast@gmail.com>",
-  "homepage": "https://iconsax.erfan.ee",
+  "author": "Erfan Goodarzi <devgoodarzi@gmail.com>",
+  "homepage": "https://github.com/erfan-goodarzi/iconsax-react",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rendinjast/iconsax-react.git",
+    "url": "git+https://github.com/erfan-goodarzi/iconsax-react.git",
     "directory": "packages/iconsax-react"
   },
   "bugs": {
-    "url": "https://github.com/rendinjast/iconsax-react/issues"
+    "url": "https://github.com/erfan-goodarzi/iconsax-react/issues"
   },
   "publishConfig": {
     "access": "public"
